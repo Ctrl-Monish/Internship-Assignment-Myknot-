@@ -8,8 +8,11 @@ loads - oncreate())
 
 Once Response comes
 ● Show Responses variable - title as Dialog Box title and Image as dialog Box Image
+
 ● The Dialog Box can be swipable and closable on swipe.
+
 ● One Success button is Clicked, Open Browser and navigate to SUCCESS_URL
+
 Notes:
 The codes to invoke/show dialog box must be present in another class
 The Dialog Box Constructor must be in another class / Activity ( Preferably from a singleTon
