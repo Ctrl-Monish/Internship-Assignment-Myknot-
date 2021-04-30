@@ -2,8 +2,10 @@
 Call an API using Post method. Implementing swipe to dismiss dialogue box from a non-Activity class.
 
 ● Please create an Empty Screen
+
 ● Call this API (POSTMethod) https://backend-test-zypher.herokuapp.com/testData ( once screen
 loads - oncreate())
+
 Once Response comes
 ● Show Responses variable - title as Dialog Box title and Image as dialog Box Image
 ● The Dialog Box can be swipable and closable on swipe.
